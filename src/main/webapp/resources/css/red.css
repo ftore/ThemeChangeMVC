@@ -1,0 +1,13 @@
+body {
+	background-color: red;
+	color: white;
+}
+
+a {
+	color: #eee;
+	text-decoration: underline;
+}
+
+a:HOVER {
+	text-decoration: none;
+}
